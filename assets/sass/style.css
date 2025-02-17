@@ -9498,3 +9498,11 @@ img {
   margin-bottom: 1.8em;
 }
 /*# sourceMappingURL=style.css.map */
+
+/* Erica's Additions */
+
+.faicon-rocket {
+    font-size: 3em;
+    padding-right: .2em;
+    color: #0dffb2;
+}
