@@ -105,7 +105,7 @@
 	}
 
 	.upper-footer {
-		padding: 190px 0;
+		padding: 90em 90em 90em 90em;
         z-index: 1;
 		overflow: hidden;
 		position: relative;
@@ -364,7 +364,7 @@
 .wpo-site-footer-s2{
     .upper-footer{
         @include widther(992px) {
-			padding-top: 190px;
+			padding-top: 90px;
 		}
 
 		@include media-query(991px) {
