@@ -4298,11 +4298,11 @@ img {
 .contact-icons {
     font-size: xxx-large;
 	padding: 1em;
-	font-color: Purple;
+	font-color: Purple !important;
 }
 
 .footer-logo {
-	padding-top: 10em;
+	padding-top: 1em;
 }
 /*
 .wpo-site-footer,
