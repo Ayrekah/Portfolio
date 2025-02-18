@@ -364,7 +364,7 @@
 .wpo-site-footer-s2{
     .upper-footer{
         @include widther(992px) {
-			padding: 3em 0 5em;
+			padding-top: 15em;
 		}
 
 		@include media-query(991px) {
