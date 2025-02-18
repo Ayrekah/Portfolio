@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------
 #0.5	footer
 --------------------------------------------------------------*/
-/* .wpo-site-footer,
+.wpo-site-footer,
 .wpo-site-footer-s2{
 	background-color: $dark-gray;
 	position: relative;
@@ -17,7 +17,7 @@
 	}
 
 	/*** upper contact area ***/
-	/* .upper-contact-area {
+	 .upper-contact-area {
 		position: absolute;
 		width: 100%;
 		top: -280px;
@@ -171,10 +171,10 @@
 			font-size: 22px;
 			font-size: calc-rem-value(22);
 		}
-	} */
+	} 
 
 	/*** about-widget ***/ 
-	/* .about-widget {
+	 .about-widget {
 		@include widther(1200px) {
 			padding-right: 75px;
 			position: relative;
@@ -243,10 +243,10 @@
 				color: $theme-primary-color-s2;
 			}
 		}
-	} */
+	} 
 
 	/*** link-widget ***/
-	/* .link-widget {
+	 .link-widget {
 		@include media-query(1199px) {
 			padding-left: 20px;
 		}
@@ -290,14 +290,14 @@
 	} 
 
 	/*** service-link-widget ***/
-	/* .service-link-widget {
+	 .service-link-widget {
 		@include widther(1200px) {
 			padding-left: 25px;
 		}
-	} */
+	} 
 
 	/*** newsletter-widget ***/
-	/* .newsletter-widget {
+	.newsletter-widget {
 		form {
 			margin-top: 25px;
 			position: relative;
@@ -326,11 +326,11 @@
 				}
 			}
 		}
-	} */
+	}
 
 
 	/*** lower-footer ***/
-	/* .lower-footer {
+	 .lower-footer {
 		text-align: center;
 
 		.row {
@@ -359,8 +359,8 @@
 			}
 		}
 	}
-} */
-/*
+} 
+
 .wpo-site-footer-s2{
     .upper-footer{
         @include widther(992px) {
@@ -375,8 +375,5 @@
 			padding: 80px 0 10px;
 		}
     }
-} */
+} 
 
-.wpo-site-footer {
-	padding: 90em;
-}
