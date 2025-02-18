@@ -1064,12 +1064,6 @@
 .ti-email:before {
 	content: "\e75a";
 }
-.ti-email {
-	color: red;
-	padding: 10px;
-	padding-right: 10px;
-	font-size: 2em;
-}
 .ti-drupal:before {
 	content: "\e75b";
 }
