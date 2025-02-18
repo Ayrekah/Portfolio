@@ -4295,6 +4295,12 @@ img {
 	text-align: center;
 }
 
+.social-icons {
+	color: red;
+	padding: 10px;
+	padding-right: 10px;
+	font-size: 2em;
+	}
 /*
 .wpo-site-footer,
 .wpo-site-footer-s2 {
