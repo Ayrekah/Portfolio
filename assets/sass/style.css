@@ -4103,7 +4103,7 @@ img {
 
 .static-hero .static-hero-right .project .icon .fi:before {
   font-size: 50px;
-  color: #A3C4BC;
+  color: #413C58;
 }
 
 @media (max-width: 575px) {
@@ -4874,7 +4874,7 @@ img {
 .wpo-about-area-s2 .wpo-about-exprience-wrap .wpo-about-exprience h2 {
   font-size: 140px;
   font-weight: 700;
-  color: #f2e7c9;
+  color: #413C58;
 }
 
 @media (max-width: 575px) {
@@ -5257,7 +5257,7 @@ img {
 .wpo-service-area .wpo-service-wrap .wpo-service-item .icon .fi:before,
 .wpo-service-area-s2 .wpo-service-wrap .wpo-service-item .icon .fi:before {
   font-size: 50px;
-  color: #f2e7c9;
+  color: #413C58;
   line-height: unset;
 }
 
