@@ -4299,17 +4299,17 @@ img {
     font-size: xx-large;
 }
 .contact-icons a {
-   	color: #413c58;
+   	color: #white;
 	font-size: xx-large;
 }
 
 .contact-icons a:hover {
-   	color: #a3c4bc;
+   	color: #202020;
 	font-size: xxx-large;
 }
 
 .contact-icons a:visited {
-   	color: #413c58;
+   	color: #888888;
 	font-size: xx-large;
 }
 
