@@ -539,7 +539,7 @@ img {
 }
 
 .theme-btn:hover, .view-cart-btn:hover, .theme-btn:focus, .view-cart-btn:focus, .theme-btn:active, .view-cart-btn:active {
-  background: #E7EFC5;
+  background: #bfd7b5;
   color: #fff;
 }
 
@@ -3760,7 +3760,7 @@ img {
 }
 
 .static-hero .shape-1 svg circle {
-  fill: #413c58;
+  fill: #a3c4bc;
 }
 
 .static-hero .shape-2 {
