@@ -4298,7 +4298,7 @@ img {
 .contact-icons {
     font-size: xx-large;
 }
-.contact-icons a {
+.contact-icons a:link {
    	color: #white;
 	font-size: xx-large;
 }
