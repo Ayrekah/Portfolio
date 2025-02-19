@@ -1,7 +1,7 @@
 /* 3.2 wpo-about-area */
 .wpo-about-area,
 .wpo-about-area-s2 {
-	background: #e8eef1;
+	background: #fefefe;
 	overflow: hidden;
 	z-index: 1;
 	position: relative;
@@ -278,7 +278,7 @@
 
 .wpo-service-area,
 .wpo-service-area-s2 {
-	background: #E8EEF1;
+	background: #fefefe;
 	position: relative;
 	overflow: hidden;
 	z-index: 1;
@@ -470,7 +470,7 @@
 
 .wpo-work-area,
 .wpo-work-area-s2 {
-	background: #e8eef1;
+	background: #fefefe;
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
@@ -1293,6 +1293,7 @@
 	background: $bg-color3;
 	position: relative;
 	z-index: 1;
+	padding-top: 1em;
 
 	.shape-p {
 		position: absolute;
@@ -1310,7 +1311,7 @@
 
 	.wpo-pricing-wrap {
 		.wpo-pricing-item {
-			background: $white;
+			background: #e7efc5;
 			box-shadow: 0px 2px 10px rgba(14, 29, 44, .15);
 
 			@media(max-width:991px) {
