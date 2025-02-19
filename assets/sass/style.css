@@ -4299,12 +4299,12 @@ img {
     font-size: xx-large;
 }
 .contact-icons a:link {
-   	color: #ffffff;
+   	color: #202020;
 	font-size: xx-large;
 }
 
 .contact-icons a:hover {
-   	color: #202020;
+   	color: #ffffff;
 	font-size: xxx-large;
 }
 
