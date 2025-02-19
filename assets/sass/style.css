@@ -6359,7 +6359,7 @@ img {
 
 /* 3.7 wpo-pricing-section */
 .wpo-pricing-section {
-  background: #E7EFC5;
+  background: #a3c4bc;
   position: relative;
   z-index: 1;
 }
@@ -6374,7 +6374,7 @@ img {
 }
 
 .wpo-pricing-section .shape-p svg circle {
-  fill: #f2e7c9;
+  fill: #a3c4bc;
 }
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item {
@@ -6385,12 +6385,12 @@ img {
 
 @media (max-width: 991px) {
   .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item {
-    margin-bottom: 30px;
+    margin-bottom: 1em;
   }
 }
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-top {
-  padding: 30px;
+  padding: 1em;
   text-align: center;
   padding-top: 0;
   padding-bottom: 0;
@@ -6398,7 +6398,7 @@ img {
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-top .pricing-thumb {
   display: inline-block;
-  padding: 3px 30px 5px;
+  padding: 1em;
   background: #A3C4BC;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -6447,8 +6447,8 @@ img {
 }
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-bottom {
-  padding: 40px;
-  padding-top: 35px;
+  padding: 1em;
+  padding-top: 1em;
   text-align: center;
 }
 
@@ -6458,7 +6458,7 @@ img {
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-bottom .wpo-pricing-bottom-text ul li {
   color: #888888;
-  padding-bottom: 15px;
+  padding-bottom: 1em;
 }
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-bottom .wpo-pricing-bottom-text a {
@@ -6473,7 +6473,7 @@ img {
 }
 
 .wpo-pricing-section .wpo-pricing-wrap .wpo-pricing-item .wpo-pricing-bottom .wpo-pricing-bottom-text a:hover {
-  background: #A3C4BC;
+  background: #a3c4bc;
   color: #fff;
 }
 
@@ -7163,7 +7163,7 @@ img {
 6. wpo-service-single
 ======================================================*/
 .wpo-service-single-area {
-  background: #fffbfb;
+  background: #fefefd;
 }
 
 .wpo-service-single-area .wpo-service-single-wrap .wpo-service-single-title h3 {
@@ -7219,7 +7219,7 @@ img {
   content: "\e64c";
   font-family: "themify";
   text-align: center;
-  color: #A3C4BC;
+  color: #fefefd;
   font-size: 14px;
 }
 
@@ -7297,7 +7297,7 @@ img {
   border: 0;
   border-bottom: 0;
   border-radius: 0;
-  background: #f1f1f1;
+  background: #fefefd;
   color: #888888;
 }
 
@@ -7330,7 +7330,7 @@ img {
 }
 
 .wpo-service-single-area .wpo-service-single-wrap .wpo-service-contact-area .wpo-contact-form-area select.form-control {
-  background: #f1f1f1 url(../images/select-icon2.png) no-repeat calc(100% - 15px) center;
+  background: #fefefd url(../images/select-icon2.png) no-repeat calc(100% - 15px) center;
 }
 
 .wpo-service-single-area .wpo-service-single-wrap .wpo-service-contact-area .wpo-contact-form-area .submit-area button {
