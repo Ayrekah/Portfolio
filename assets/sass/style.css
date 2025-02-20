@@ -746,7 +746,7 @@ img {
 }
 
 .wpo-page-title {
-  background: url(../images/page-title2.jpg) no-repeat center top/cover;
+  background: none;
   min-height: 350px;
   position: relative;
   display: -webkit-box;
@@ -774,7 +774,7 @@ img {
 
 .wpo-page-title .wpo-breadcumb-wrap h2 {
   font-size: 60px;
-  color: #fff;
+  color: #001219;
   line-height: 60px;
   margin-top: -10px;
   margin-bottom: 20px;
