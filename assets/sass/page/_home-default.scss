@@ -214,13 +214,12 @@
 				}
 
 				&:nth-child(2) {
-					background: linear-gradient(180deg, rgba(89, 195, 120, 0.6) 0%, rgba(255, 255, 255, 0.6) 67.59%);
-
+					/*background: linear-gradient(180deg, rgba(89, 195, 120, 0.6) 0%, rgba(255, 255, 255, 0.6) 67.59%);*/
+					background: linear-gradient(180deg, rgb(202, 103, 2) 0%, rgb(202, 103, 2) 67.59%);
 					.grid-inner {
 						p {
 							margin-bottom: 0;
-							color: #fb6f92;
-							/* color: $theme-primary-color; */
+							color: $theme-primary-color;
 						}
 					}
 				}
