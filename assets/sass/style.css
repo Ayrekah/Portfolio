@@ -2873,7 +2873,7 @@ img {
   }
   .wpo-site-header #navbar > ul > li > .sub-menu > .menu-item-has-children:before {
     font-family: "themify";
-    content: "\e649";
+    content: "\e617";
     font-size: 11px;
     font-size: 0.73333rem;
     position: absolute;
