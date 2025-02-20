@@ -6372,9 +6372,11 @@ img {
 
 /* 3.7 wpo-pricing-section */
 .wpo-pricing-section {
-  background: #E9D8A6;
+  background: #94D2BD;
   position: relative;
   z-index: 1;
+  padding-top: 4em;
+  padding-bottom: 0;
 }
 
 .wpo-pricing-section .shape-p {
