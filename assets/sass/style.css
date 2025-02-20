@@ -4103,7 +4103,7 @@ img {
 
 .static-hero .static-hero-right .project .icon .fi:before {
   font-size: 50px;
-  color: #413C58;
+  color: #CA6702;
 }
 
 @media (max-width: 575px) {
@@ -5230,9 +5230,9 @@ img {
 .wpo-service-area .wpo-service-wrap .nav-tabs .nav-item .nav-link.active,
 .wpo-service-area-s2 .wpo-service-wrap .nav-tabs .nav-item .nav-link.active {
   background: none;
-  border: 2px solid #A3C4BC;
+  border: 2px solid #005F73;
   color: #fff;
-  background: #A3C4BC;
+  background: #0A9396;
 }
 
 .wpo-service-area .wpo-service-wrap .wpo-service-item,
@@ -5270,7 +5270,7 @@ img {
 .wpo-service-area .wpo-service-wrap .wpo-service-item .icon .fi:before,
 .wpo-service-area-s2 .wpo-service-wrap .wpo-service-item .icon .fi:before {
   font-size: 50px;
-  color: #413C58;
+  color: #005F73;
   line-height: unset;
 }
 
@@ -5365,7 +5365,7 @@ img {
 
 .wpo-service-area .wpo-service-wrap .wpo-service-item:hover .icon,
 .wpo-service-area-s2 .wpo-service-wrap .wpo-service-item:hover .icon {
-  background: #A3C4BC;
+  background: #e9d8a6;
 }
 
 .wpo-service-area .wpo-service-wrap .wpo-service-item:hover .icon .fi:before,
