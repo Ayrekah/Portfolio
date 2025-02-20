@@ -443,7 +443,7 @@ img {
   position: relative;
   font-family: "Inter", sans-serif;
   font-weight: 700;
-  color: #202020;
+  color: #001219;
   display: inline-block;
   padding-bottom: 20px;
   position: relative;
@@ -475,7 +475,7 @@ img {
 .wpo-section-title p,
 .wpo-section-title-s2 p {
   font-size: 18px;
-  color: #888888;
+  color: ghostwhite;
   margin-bottom: 0;
 }
 
@@ -5376,7 +5376,7 @@ img {
 /* 3.4 wpo-work-area  */
 .wpo-work-area,
 .wpo-work-area-s2 {
-  background: #f8f8f8;
+  background: #94D2BD;
   position: relative;
   z-index: 1;
   overflow: hidden;
