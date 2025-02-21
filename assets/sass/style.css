@@ -7232,7 +7232,7 @@ img {
   height: 25px;
   line-height: 25px;
   border-radius: 50%;
-  background: rgba(89, 195, 120, 0.1);
+  background: rgb(0, 95, 115);
   content: "\e64c";
   font-family: "themify";
   text-align: center;
