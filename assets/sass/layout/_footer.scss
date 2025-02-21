@@ -1,9 +1,19 @@
 /*--------------------------------------------------------------
 #0.5	footer
 --------------------------------------------------------------*/
+.my-footer {
+	text-align: center;
+	background-color: blue;
+}
+
+.wpo-site-footer {
+	text-align: center;
+}
+/*
 .wpo-site-footer,
 .wpo-site-footer-s2{
-	background-color: $dark-gray;
+	background-color: $dark-grey;
+	text-align: center;
 	position: relative;
     z-index: 1;
 
@@ -17,7 +27,7 @@
 	}
 
 	/*** upper contact area ***/
-	.upper-contact-area {
+	 /* .upper-contact-area {
 		position: absolute;
 		width: 100%;
 		top: -280px;
@@ -105,13 +115,13 @@
 	}
 
 	.upper-footer {
-		padding: 90px 0;
+		padding: 1em;
         z-index: 1;
 		overflow: hidden;
 		position: relative;
 
 		@include widther(992px) {
-			padding-top: 170px;
+			padding-top: 70px;
 		}
 
 		@include media-query(991px) {
@@ -171,10 +181,10 @@
 			font-size: 22px;
 			font-size: calc-rem-value(22);
 		}
-	}
+	} */
 
-	/*** about-widget ***/
-	.about-widget {
+	/*** about-widget ***/ 
+	/* .about-widget {
 		@include widther(1200px) {
 			padding-right: 75px;
 			position: relative;
@@ -243,10 +253,10 @@
 				color: $theme-primary-color-s2;
 			}
 		}
-	}
+	} */
 
 	/*** link-widget ***/
-	.link-widget {
+	/* .link-widget {
 		@include media-query(1199px) {
 			padding-left: 20px;
 		}
@@ -287,17 +297,17 @@
 		ul > li + li {
 			margin-top: 17px;
 		}
-	}
+	} */
 
 	/*** service-link-widget ***/
-	.service-link-widget {
+	/* .service-link-widget {
 		@include widther(1200px) {
 			padding-left: 25px;
 		}
-	}
+	} */
 
 	/*** newsletter-widget ***/
-	.newsletter-widget {
+/*	.newsletter-widget {
 		form {
 			margin-top: 25px;
 			position: relative;
@@ -326,11 +336,11 @@
 				}
 			}
 		}
-	}
+	} */
 
 
 	/*** lower-footer ***/
-	.lower-footer {
+	/* .lower-footer {
 		text-align: center;
 
 		.row {
@@ -359,12 +369,12 @@
 			}
 		}
 	}
-}
-
+} */
+/*
 .wpo-site-footer-s2{
     .upper-footer{
         @include widther(992px) {
-			padding-top: 90px;
+			padding-top: 1em;
 		}
 
 		@include media-query(991px) {
@@ -375,4 +385,6 @@
 			padding: 80px 0 10px;
 		}
     }
-}
+} 
+
+*/

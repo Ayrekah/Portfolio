@@ -1,7 +1,7 @@
 /* 3.2 wpo-about-area */
 .wpo-about-area,
 .wpo-about-area-s2 {
-	background: $bg-color3;
+	background: #fefefe;
 	overflow: hidden;
 	z-index: 1;
 	position: relative;
@@ -214,12 +214,12 @@
 				}
 
 				&:nth-child(2) {
-					background: linear-gradient(180deg, rgba(89, 195, 120, 0.6) 0%, rgba(255, 255, 255, 0.6) 67.59%);
-
+					/*background: linear-gradient(180deg, rgba(89, 195, 120, 0.6) 0%, rgba(255, 255, 255, 0.6) 67.59%);*/
+					background: linear-gradient(180deg, rgb(202, 103, 2) 0%, rgb(202, 103, 2) 67.59%);
 					.grid-inner {
 						p {
 							margin-bottom: 0;
-							color: $theme-primary-color;
+							color: $theme-primary-color-s2;
 						}
 					}
 				}
@@ -278,11 +278,13 @@
 
 .wpo-service-area,
 .wpo-service-area-s2 {
-	background: $bg-color2;
+	background: #f8f8f8;
 	position: relative;
 	overflow: hidden;
 	z-index: 1;
 	padding-bottom: 90px;
+	border-top: 1px solid #FD3DB5;
+}
 
 	@media(max-width:991px) {
 		padding-bottom: 60px;
@@ -470,7 +472,7 @@
 
 .wpo-work-area,
 .wpo-work-area-s2 {
-	background: $bg-color3;
+	background: #fefefe;
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
@@ -727,7 +729,7 @@
 		width: 130px;
 		height: 130px;
 		line-height: 130px;
-		background: #faf8e0;
+		background: #fefefe;
 		text-align: center;
 		border-radius: 50%;
 		margin-left: auto;
@@ -1290,9 +1292,10 @@
 /* 3.7 wpo-pricing-section */
 
 .wpo-pricing-section {
-	background: $bg-color3;
+	background: #a3c4bc;
 	position: relative;
 	z-index: 1;
+	padding-top: 1em;
 
 	.shape-p {
 		position: absolute;
@@ -1310,7 +1313,7 @@
 
 	.wpo-pricing-wrap {
 		.wpo-pricing-item {
-			background: $white;
+			background: #a3c4bc;
 			box-shadow: 0px 2px 10px rgba(14, 29, 44, .15);
 
 			@media(max-width:991px) {
@@ -1425,7 +1428,7 @@
 	position: relative;
 	overflow: hidden;
 	z-index: 1;
-	padding-bottom: 360px;
+	padding-bottom: 160px;
 
 	@media(max-width:991px) {
 		padding-bottom: 90px;
