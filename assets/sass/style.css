@@ -747,7 +747,7 @@ img {
 
 .wpo-page-title {
   background: none;
-  min-height: 350px;
+  min-height: 150px;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -760,6 +760,8 @@ img {
       -ms-flex-direction: column;
           flex-direction: column;
   z-index: 1;
+	    padding-top: 9em;
+    padding-bottom: 0;
 }
 
 @media (max-width: 767px) {
