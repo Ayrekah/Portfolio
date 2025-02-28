@@ -7242,6 +7242,7 @@ img {
 
 .wpo-service-single-area .wpo-service-single-wrap .wpo-p-details-img {
   margin-bottom: 10px;
+  width: max-content;
 }
 
 .wpo-service-single-area .wpo-service-single-wrap .wpo-service-area {
