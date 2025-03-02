@@ -2806,7 +2806,7 @@ img {
     font-weight: 500;
     position: relative;
     font-family: "Inter", sans-serif;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
   }
 }
 
